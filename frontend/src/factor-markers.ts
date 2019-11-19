@@ -1,0 +1,22 @@
+export default [
+  { text: "Am the life of the party." },
+  { text: "Talk to a lot of different people at parties." },
+  { text: "Don't talk a lot." },
+  { text: "Keep in the background." },
+  { text: "Sympathize with others' feelings." },
+  { text: "Feel others' emotions." },
+  { text: "Am not really interested in others." },
+  { text: "Am not interested in other people's problems." },
+  { text: "Get chores done right away." },
+  { text: "Like order." },
+  { text: "Often forget to put things back in their proper place." },
+  { text: "Make a mess of things." },
+  { text: "Have frequent mood swings." },
+  { text: "Get upset easily." },
+  { text: "Am relaxed most of the time." },
+  { text: "Seldom feel blue." },
+  { text: "Have a vivid imagination." },
+  { text: "Have difficulty understanding abstract ideas." },
+  { text: "Am not interested in abstract ideas." },
+  { text: "Do not have a good imagination." }
+];
